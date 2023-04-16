@@ -9,7 +9,7 @@ When calls without parameters it runs in interactive mode and asks for directory
 
 For non-interactive calls you must specify mountpoint as command-line argument.
 
-If you specify /?, /h, /help ГЁ help as argument, you can see usage page.
+If you specify /?, /h, /help and help as argument, you can see usage page.
 
 Archive names will be generated as follows:
 
@@ -17,7 +17,7 @@ Archive names will be generated as follows:
 
 If archive with generated name is exists in target mountpoint, script generates new incremental archive name as follows:
 
-[hostname][level].flar, n=1,2,3....
+[hostname][level].flar, где n=1,2,3....
 
 Archive author gets from USER environment variable.
 

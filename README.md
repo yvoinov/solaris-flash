@@ -1,4 +1,4 @@
-# Solaris flash - 
+# Solaris flash - backup tool
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/yvoinov/solaris-flash/blob/main/LICENSE)
 ____________________________________________________________
 This script is written for Flar-archives level 0 of root fs or root pool creation. Flar-archives can be used for bare-metal restore and systems cloning purposes.

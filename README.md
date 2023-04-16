@@ -17,7 +17,7 @@ Archive names will be generated as follows:
 
 If archive with generated name is exists in target mountpoint, script generates new incremental archive name as follows:
 
-[hostname][level].flar, где n=1,2,3....
+[hostname][level].flar, where n=1,2,3....
 
 Archive author gets from USER environment variable.
 
